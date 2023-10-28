@@ -4,10 +4,6 @@ import Admins.AdminActivity;
 import Main.Hospital;
 import javax.swing.ImageIcon;
 
-/**
- *
- * @author Sajeeb
- */
 public class patientActivity extends javax.swing.JFrame {
 
     public patientActivity() {
