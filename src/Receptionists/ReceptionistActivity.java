@@ -3,7 +3,7 @@ package Receptionists;
 import Main.Hospital;
 import javax.swing.ImageIcon;
 
-/**
+/**2e4
  *
  * @author Sajeeb
  */
